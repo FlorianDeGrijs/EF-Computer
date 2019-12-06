@@ -61,7 +61,7 @@ namespace ComputerDatabase.Models
         }
 
         /// <summary>
-        /// Removes all items in Database
+        /// Removes all items in the Database
         /// </summary>
         public void RemoveAll()
         {
